@@ -1,0 +1,2 @@
+print(12, 34, sep="-", end='##') # O print tem quebra de linha por padrão. sep é um argumento usado para mudar o separados dos argumentos
+print(56, 78, sep='-', end='##') # O argumento end muda o caractere que é usado no final da linha. Python é case-sensitive.
